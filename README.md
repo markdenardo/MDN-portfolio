@@ -5,7 +5,7 @@ MDN-portfolio: a list of projects
 an instructional design application for Roblox
 https://github.com/markdenardo/for_loop_roblox_tutorial
 
-pure data and FMOD integration in Unity project for video game project
+pure data and FMOD integration in Unity project 
 https://github.com/markdenardo/DR2-audio-test
 
 game prototype for an upcoming tape release
