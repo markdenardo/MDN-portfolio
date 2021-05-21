@@ -11,7 +11,7 @@ https://markdenardo.medium.com/loops-in-lua-using-instancing-to-create-3d-object
 pure data and FMOD integration in Unity project for video game project
 https://github.com/markdenardo/DR2-audio-test
 
-a game prototype for an upcoming tape release
+game prototype for an upcoming tape release
 https://github.com/markdenardo/magician-twine
 
 # creative coding:
@@ -25,14 +25,14 @@ https://github.com/markdenardo/Sonic_Pi
 experiments in the Orca framework
 https://github.com/markdenardo/orca_savs
 
-# music software
+# music software:
 
 pure data skateboards
 https://github.com/markdenardo/pd-skateboards
 
-JUCE sampler
+JUCE sampler project
 https://github.com/markdenardo/simple_sampler
 
-JUCE synth
+JUCE synth project
 https://github.com/markdenardo/JUCE-synth
 
