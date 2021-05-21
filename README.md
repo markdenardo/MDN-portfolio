@@ -5,9 +5,6 @@ MDN-portfolio: a list of projects
 an instructional design application for Roblox
 https://github.com/markdenardo/for_loop_roblox_tutorial
 
-MEDIUM BLOG POST for same application
-https://markdenardo.medium.com/loops-in-lua-using-instancing-to-create-3d-objects-in-roblox-5d173cc437dc
-
 pure data and FMOD integration in Unity project for video game project
 https://github.com/markdenardo/DR2-audio-test
 
